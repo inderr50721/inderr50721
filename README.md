@@ -2,13 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=4500&pause=1200&color=79C0FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Inderjeet;DevOps+Engineer+from+Mohali,+Punjab" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy-soulteary.vercel.app/?username=inderr50721&theme=dracula&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-<br/>
 
 <br/>
 
