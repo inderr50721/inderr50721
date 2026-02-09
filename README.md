@@ -5,8 +5,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inderr50721&theme=dracula&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy-soulteary.vercel.app/?username=inderr50721&theme=dracula&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
 </div>
+
+<br/>
 
 <br/>
 
