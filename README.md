@@ -1,118 +1,118 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Inderjeet;DevOps+Engineer+from+Punjab," alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=5000&pause=1500&color=79C0FF&center=true&vCenter=true&width=650&lines=Hello+There!+%F0%9F%91%8B;I'm+Inderjeet;Senior+DevOps+%26+Platform+Engineer;Building+Scalable+Cloud-Native+Systems+from+Mohali" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300" alt="DevOps animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="Trophies" />
 </div>
 
 <br/>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🔧 **DevOps Engineer** | Building reliable, scalable & automated infrastructure
-- ☁️ Passionate about **Cloud-Native**, **CI/CD**, **Automation** & **Observability**
-- 🌱 Currently diving deep into **GitOps**, **Platform Engineering** & **FinOps**
-- 💡 I love turning complex deployments into simple, repeatable processes
-- 📍 Based in **Mohali, Punjab, India**
+DevOps Engineer with focus on **automation**, **reliability**, **GitOps**, and **cloud cost optimization**. I design and maintain production-grade infrastructures that scale effortlessly while keeping deployments fast and secure.
 
-<br/>
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Containerization-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Jenkins%20%7C%20GitLab%20CI-CD4C4C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IaC-Terraform%20%7C%20OpenTofu-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Configuration-Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Monitoring-Prometheus%20%7C%20Grafana-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logging-ELK%20Stack%20%7C%20Loki-00A1D6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scripting-Bash%20%7C%20Python-4EAA25?style=for-the-badge&logo=python&logoColor=white" />
-</div>
+- 🔭 Currently architecting **multi-cloud** and **Kubernetes-native** platforms
+- 🌱 Deep diving into **Platform Engineering**, **eBPF**, **Observability** (OpenTelemetry), **FinOps**
+- 💼 Ex-roles: Building CI/CD pipelines, IaC at scale, zero-downtime migrations
+- 📍 Mohali, Punjab, India
 
 <br/>
 
-## 🔥 GitHub Stats
+## 🛠️ Core Expertise
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <table>
+    <tr>
+      <td><b>Cloud & Platforms</b></td>
+      <td>AWS · Azure · GCP · Kubernetes (EKS/AKS/GKE) · OpenShift</td>
+    </tr>
+    <tr>
+      <td><b>Container & Orchestration</b></td>
+      <td>Docker · Kubernetes · Helm · ArgoCD · Flux</td>
+    </tr>
+    <tr>
+      <td><b>CI/CD & Automation</b></td>
+      <td>GitHub Actions · GitLab CI · Jenkins · Tekton</td>
+    </tr>
+    <tr>
+      <td><b>Infrastructure as Code</b></td>
+      <td>Terraform · OpenTofu · Pulumi · Crossplane</td>
+    </tr>
+    <tr>
+      <td><b>Configuration & Scripting</b></td>
+      <td>Ansible · Bash · Python · Go</td>
+    </tr>
+    <tr>
+      <td><b>Observability</b></td>
+      <td>Prometheus · Grafana · Loki · ELK · Jaeger · OpenTelemetry</td>
+    </tr>
+    <tr>
+      <td><b>Security & Best Practices</b></td>
+      <td>OPA · Kyverno · Trivy · Snyk · Vault</td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Stats" height="180"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="Streak Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" />
 </div>
 
 <br/>
 
-## 🌟 Featured Projects
+## 🔥 Highlighted Projects & Impact
 
-<table align="center">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td><b>Complete E-commerce Infra</b></td>
-    <td>Production-grade Kubernetes cluster with GitOps, monitoring & auto-scaling</td>
-    <td>K8s + ArgoCD + Prometheus + Terraform</td>
-    <td><a href="https://github.com/YOUR_USERNAME/ecommerce-infra">Repo</a></td>
-  </tr>
-  <tr>
-    <td><b>AWS Multi-Account Setup</b></td>
-    <td>Secure landing zone with Terraform + GitHub Actions CI/CD</td>
-    <td>AWS + Terraform + GitHub Actions</td>
-    <td><a href="https://github.com/YOUR_USERNAME/aws-organization">Repo</a></td>
-  </tr>
-  <tr>
-    <td><b>Self-hosted GitOps Runner</b></td>
-    <td>Private Actions Runner on Kubernetes for secure CI/CD</td>
-    <td>K8s + GitHub Actions Runner</td>
-    <td><a href="https://github.com/YOUR_USERNAME/gitops-runner">Repo</a></td>
-  </tr>
-</table>
+| Project | Description | Tech Stack | Impact / Link |
+|---------|-------------|------------|---------------|
+| **Production E-Commerce Platform** | GitOps-based K8s cluster with auto-scaling, monitoring & blue-green deployments | ArgoCD, Prometheus, Terraform, Istio | 99.99% uptime, 40% cost reduction → [Repo](https://github.com/YOUR_USERNAME/ecom-platform) |
+| **Secure Multi-Account AWS Org** | Landing zone with guardrails, SSO, centralized logging | Terraform, AWS Organizations, GitHub Actions | 100+ accounts managed securely → [Repo](https://github.com/YOUR_USERNAME/aws-landing-zone) |
+| **Self-Hosted GitHub Actions Runner Fleet** | Scalable runners on K8s for private repos & compliance | Actions Runner Controller, Kubernetes | Reduced CI costs by 70% → [Repo](https://github.com/YOUR_USERNAME/k8s-runners) |
+| **Observability Dashboard Suite** | Centralized Grafana + Prometheus for microservices | OpenTelemetry, Loki, Tempo | Faster MTTR → [Repo](https://github.com/YOUR_USERNAME/observability-stack) |
 
 <br/>
 
-## 📫 Let's Connect!
+## 📜 Certifications & Badges
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  
-  <a href="https://dev.to/YOUR_DEVTO">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform%20Associate-HashiCorp-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <!-- Add more like CKS, Azure DevOps, etc. -->
+</div>
+
+<br/>
+
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://dev.to/YOUR_DEVTO"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=YOUR_USERNAME&label=Profile%20Views&color=00ff9d&style=flat&pretty=true" alt="Profile Views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=79C0FF&style=flat&pretty=true" alt="Visitors"/>
 </div>
 
 <div align="center">
-  <sub>Built with ❤️ using Markdown, Shields.io & GitHub Readme Stats</sub>
+  <sub>Crafted with precision & automation — always improving infrastructure one commit at a time.</sub>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
